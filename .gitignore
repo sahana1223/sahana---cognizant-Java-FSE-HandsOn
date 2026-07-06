@@ -1,0 +1,14 @@
+# Maven installation
+apache-maven-3.9.16/
+
+# Maven build output
+target/
+
+# VS Code
+.vscode/
+
+# Java compiled files
+*.class
+
+# SQLite database
+*.db
